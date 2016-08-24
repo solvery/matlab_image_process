@@ -1,769 +1,256 @@
 ff
- a5
- ff
- a4
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a4
- ff
- a5
- ff
- a5
- a5
- ff
- a7
- ff
- a7
- ff
- a7
- ff
- a5
- ff
- a7
- ff
- a7
- ff
- a7
- ff
- ff
- a6
- ff
- a7
- ff
- a7
- ff
- a5
- ff
- a6
- ff
- a7
- ff
- a7
- ff
- a5
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- a5
- ff
- a7
- ff
- a7
- ff
- a6
- ff
- a5
- ff
- a7
- ff
- a7
- ff
- a6
- ff
- ff
- a7
- ff
- a7
- ff
- a7
- ff
- a5
- ff
- a7
- ff
- a7
- ff
- a7
- ff
- a5
- a5
- ff
- a5
- ff
- a4
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a4
- ff
- a5
- ff
- ff
- a5
- ff
- a4
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a4
- ff
- a5
- ff
- a5
- a5
- ff
- a7
- ff
- a7
- ff
- a7
- ff
- a5
- ff
- a7
- ff
- a7
- ff
- a7
- ff
- ff
- a6
- ff
- a7
- ff
- a7
- ff
- a5
- ff
- a6
- ff
- a7
- ff
- a7
- ff
- a5
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a5
- a5
- ff
- a7
- ff
- a7
- ff
- a6
- ff
- a5
- ff
- a7
- ff
- a7
- ff
- a6
- ff
- ff
- a7
- ff
- a7
- ff
- a7
- ff
- a5
- ff
- a7
- ff
- a7
- ff
- a7
- ff
- a5
- a5
- ff
- a5
- ff
- a4
- ff
- a5
- ff
- a5
- ff
- a5
- ff
- a4
- ff
- a5
- ff
- d9
- 25
- d9
- 24
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 24
- d9
- 25
- d9
- 25
- 25
- d8
- 27
- d8
- 27
- d8
- 27
- d9
- 25
- d8
- 27
- d8
- 27
- d8
- 27
- d9
- d9
- 26
- d8
- 27
- d8
- 27
- d9
- 25
- d9
- 26
- d8
- 27
- d8
- 27
- d9
- 25
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- 25
- d9
- 27
- d8
- 27
- d8
- 26
- d9
- 25
- d9
- 27
- d8
- 27
- d8
- 26
- d9
- d9
- 27
- d8
- 27
- d8
- 27
- d8
- 25
- d9
- 27
- d8
- 27
- d8
- 27
- d8
- 25
- 25
- d9
- 25
- d9
- 24
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 24
- d9
- 25
- d9
- d9
- 25
- d9
- 24
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 24
- d9
- 25
- d9
- 25
- 25
- d8
- 27
- d8
- 27
- d8
- 27
- d9
- 25
- d8
- 27
- d8
- 27
- d8
- 27
- d9
- d9
- 26
- d8
- 27
- d8
- 27
- d9
- 25
- d9
- 26
- d8
- 27
- d8
- 27
- d9
- 25
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 25
- 25
- d9
- 27
- d8
- 27
- d8
- 26
- d9
- 25
- d9
- 27
- d8
- 27
- d8
- 26
- d9
- d9
- 27
- d8
- 27
- d8
- 27
- d8
- 25
- d9
- 27
- d8
- 27
- d8
- 27
- d8
- 25
- 25
- d9
- 25
- d9
- 24
- d9
- 25
- d9
- 25
- d9
- 25
- d9
- 24
- d9
- 25
- d9
- da
- 26
- da
- 25
- da
- 26
- da
- 26
- da
- 26
- da
- 25
- da
- 26
- da
- 26
- 26
- d9
- 28
- d9
- 28
- d9
- 28
- da
- 26
- d9
- 28
- d9
- 28
- d9
- 28
- da
- da
- 27
- d9
- 28
- d9
- 28
- da
- 26
- da
- 27
- d9
- 28
- d9
- 28
- da
- 26
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- 26
- da
- 28
- d9
- 28
- d9
- 27
- da
- 26
- da
- 28
- d9
- 28
- d9
- 27
- da
- da
- 28
- d9
- 28
- d9
- 28
- d9
- 26
- da
- 28
- d9
- 28
- d9
- 28
- d9
- 26
- 26
- da
- 26
- da
- 25
- da
- 26
- da
- 26
- da
- 26
- da
- 25
- da
- 26
- da
- da
- 26
- da
- 25
- da
- 26
- da
- 26
- da
- 26
- da
- 25
- da
- 26
- da
- 26
- 26
- d9
- 28
- d9
- 28
- d9
- 28
- da
- 26
- d9
- 28
- d9
- 28
- d9
- 28
- da
- da
- 27
- d9
- 28
- d9
- 28
- da
- 26
- da
- 27
- d9
- 28
- d9
- 28
- da
- 26
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- da
- 26
- 26
- da
- 28
- d9
- 28
- d9
- 27
- da
- 26
- da
- 28
- d9
- 28
- d9
- 27
- da
- da
- 28
- d9
- 28
- d9
- 28
- d9
- 26
- da
- 28
- d9
- 28
- d9
- 28
- d9
- 26
- 26
- da
- 26
- da
- 25
- da
- 26
- da
- 26
- da
- 26
- da
- 25
- da
- 26
- da
- 
+a5
+ff
+a4
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a4
+ff
+a5
+ff
+a5
+a5
+ff
+a7
+ff
+a7
+ff
+a7
+ff
+a5
+ff
+a7
+ff
+a7
+ff
+a7
+ff
+ff
+a6
+ff
+a7
+ff
+a7
+ff
+a5
+ff
+a6
+ff
+a7
+ff
+a7
+ff
+a5
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+a5
+ff
+a7
+ff
+a7
+ff
+a6
+ff
+a5
+ff
+a7
+ff
+a7
+ff
+a6
+ff
+ff
+a7
+ff
+a7
+ff
+a7
+ff
+a5
+ff
+a7
+ff
+a7
+ff
+a7
+ff
+a5
+a5
+ff
+a5
+ff
+a4
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a4
+ff
+a5
+ff
+ff
+a5
+ff
+a4
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a4
+ff
+a5
+ff
+a5
+a5
+ff
+a7
+ff
+a7
+ff
+a7
+ff
+a5
+ff
+a7
+ff
+a7
+ff
+a7
+ff
+ff
+a6
+ff
+a7
+ff
+a7
+ff
+a5
+ff
+a6
+ff
+a7
+ff
+a7
+ff
+a5
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a5
+a5
+ff
+a7
+ff
+a7
+ff
+a6
+ff
+a5
+ff
+a7
+ff
+a7
+ff
+a6
+ff
+ff
+a7
+ff
+a7
+ff
+a7
+ff
+a5
+ff
+a7
+ff
+a7
+ff
+a7
+ff
+a5
+a5
+ff
+a5
+ff
+a4
+ff
+a5
+ff
+a5
+ff
+a5
+ff
+a4
+ff
+a5
+ff
