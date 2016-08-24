@@ -10,6 +10,7 @@ img_1(:,:,1) = data_in_dec_p1;
 img_1(:,:,2) = data_in_dec_p2;
 img_1(:,:,3) = data_in_dec_p3;
 
-%img_1 = im2uint8(img_1);
+img_2 = reshape(img_1, 16,16, 3);
 figure; 
-imshow(img_1);
+imshow(img_2);
+
