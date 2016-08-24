@@ -1,3 +1,5 @@
+clc;
+clear;
 
 I = imread('rice.png');
 J = imresize(I, 1.5);

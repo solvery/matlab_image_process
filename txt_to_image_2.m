@@ -1,3 +1,5 @@
+clc;
+clear;
 
 data_in_hex_p1 = textread('image_data_in_2.txt', '%s');  
 data_in_dec_p1 = uint8(hex2dec(data_in_hex_p1));

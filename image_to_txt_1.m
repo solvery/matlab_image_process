@@ -1,3 +1,5 @@
+clc;
+clear;
 
 img_in = imread('test0.jpg');
 fid_1 = fopen('image_data_in_p1.txt', 'wt'); 

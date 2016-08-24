@@ -1,3 +1,5 @@
+clc;
+clear;
 
 data_in_hex_p1 = textread('image_data_in_p1.txt', '%s');  
 data_in_hex_p2 = textread('image_data_in_p2.txt', '%s');  

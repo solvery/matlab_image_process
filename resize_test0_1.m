@@ -1,3 +1,5 @@
+clc;
+clear;
 
 I = imread('lena.jpg');
 s=3.3;

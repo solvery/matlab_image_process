@@ -1,3 +1,5 @@
+clc;
+clear;
 
 I = imread('rice.png');
 
