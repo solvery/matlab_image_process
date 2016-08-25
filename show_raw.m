@@ -4,16 +4,25 @@ fid_1 = fopen(filename, 'r');
 
 img_raw = fread(fid_1,'*uint8');
 
-b_data = img_raw(1:3:end);
-g_data = img_raw(2:3:end);
-r_data = img_raw(3:3:end);
+data_1 = img_raw(1:3:end);
+data_2 = img_raw(2:3:end);
+data_3 = img_raw(3:3:end);
 
-img_1(:,:,1) = b_data;
-img_1(:,:,2) = g_data;
-img_1(:,:,3) = r_data;
+img_1 = reshape(data_1, n, m);
+img_1 = reshape(data_2, n, m);
+img_1 = reshape(data_3, n, m);
 
-img_2 = reshape(img_1, n, m, 3);
+k=0;
+for i = 1:n
+	for j = 1:m
+		img_2(i,j, 1) = img_raw(k+1);
+		img_2(i,j, 2) = img_raw(k+2);
+		img_2(i,j, 3) = img_raw(k+3);
+		k=k+3;
+	end
+end
+
+
 figure; 
 imshow(img_2);
 
-img_2;
