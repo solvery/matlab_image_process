@@ -1,4 +1,6 @@
 create_img_1.m
+image_to_raw_1.m
+show_raw.m
 image_to_txt_1.m
 image_to_txt_2.m
 imtool_rice.m
