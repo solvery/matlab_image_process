@@ -2,5 +2,5 @@ clc;
 clear;
 
 I = imread('lenna512x512.jpg');
-[row, col] = size(I)
+[row, col, dem] = size(I)
 imshow(I)
