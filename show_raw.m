@@ -13,8 +13,8 @@ img_1 = reshape(data_2, n, m);
 img_1 = reshape(data_3, n, m);
 
 k=0;
-for i = 1:n
-	for j = 1:m
+for i = 1:m
+	for j = 1:n
 		img_2(i,j, 1) = img_raw(k+1);
 		img_2(i,j, 2) = img_raw(k+2);
 		img_2(i,j, 3) = img_raw(k+3);
