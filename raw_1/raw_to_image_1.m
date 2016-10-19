@@ -1,8 +1,12 @@
 function [X,map] = raw_to_image_1(fn_in, fn_out, n, m);
 
-fid_1 = fopen(fn_in, 'r'); 
+fd_in = fopen(fn_in, 'r'); 
 
-img_raw = fread(fid_1,'*uint8');
+img_raw = fread(fd_in,'*uint8');
+
+if length(img_raw) ~= (n*m*3);
+	return ;
+end
 
 k=0;
 for i = 1:m
@@ -15,7 +19,7 @@ for i = 1:m
 end
 
 
-figure; 
-imshow(img_2);
+% figure; imshow(img_2);
 
-fd_out = fopen(fn_out, 'wt'); 
+imwrite(img_2, fn_out);
+
