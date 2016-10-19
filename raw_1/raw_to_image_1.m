@@ -1,6 +1,6 @@
-function [X,map] = show_raw(filename,n,m);
+function [X,map] = raw_to_image_1(fn_in,n,m);
 
-fid_1 = fopen(filename, 'r'); 
+fid_1 = fopen(fn_in, 'r'); 
 
 img_raw = fread(fid_1,'*uint8');
 

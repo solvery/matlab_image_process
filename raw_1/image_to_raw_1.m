@@ -1,11 +1,10 @@
-clc;
-clear;
+function [X,map] = image_to_raw_1(fn_in, fn_out);
 
-%img_in = imread('/workspace/gen1.bmp');
-img_in = imread('/workspace/gen1.bmp');
+img_in = imread(fn_in);
+
 [col, row, dem] = size(img_in)
 %figure, imshow(img_in)
-fid_1 = fopen('image_to_raw_1.txt', 'wt'); 
+fd_out = fopen(fn_out, 'wt'); 
 
 k=1;
 for i = col:-1:1
@@ -17,6 +16,6 @@ for i = col:-1:1
 	end
 end
 
-fwrite(fid_1, img_raw, 'uint8');
+fwrite(fd_out, img_raw, 'uint8');
 
 
