@@ -4,7 +4,6 @@ img_in = imread(fn_in);
 
 [col, row, dem] = size(img_in)
 %figure, imshow(img_in)
-fd_out = fopen(fn_out, 'wt'); 
 
 k=1;
 for i = col:-1:1
@@ -16,6 +15,6 @@ for i = col:-1:1
 	end
 end
 
+fd_out = fopen(fn_out, 'wt'); 
 fwrite(fd_out, img_raw, 'uint8');
-
 

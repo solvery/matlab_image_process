@@ -1,4 +1,4 @@
-function [X,map] = raw_to_image_1(fn_in,n,m);
+function [X,map] = raw_to_image_1(fn_in, fn_out, n, m);
 
 fid_1 = fopen(fn_in, 'r'); 
 
@@ -17,3 +17,5 @@ end
 
 figure; 
 imshow(img_2);
+
+fd_out = fopen(fn_out, 'wt'); 
