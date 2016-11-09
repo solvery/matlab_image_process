@@ -1,10 +1,13 @@
-function [X,map] = raw_to_image_1(fn_in, fn_out, n, m);
+function raw_to_image_1(fn_in, fn_out, n, m);
 
 fd_in = fopen(fn_in, 'r'); 
+if fd_in == -1;
+	return ;
+end
 
-img_raw = fread(fd_in,'*uint8');
+[img_raw, img_size] = fread(fd_in,'*uint8');
 
-if length(img_raw) ~= (n*m*3);
+if img_size ~= (n.*m.*3);
 	return ;
 end
 
@@ -20,6 +23,5 @@ end
 
 
 % figure; imshow(img_2);
-
 imwrite(img_2, fn_out);
 
