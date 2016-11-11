@@ -1,7 +1,7 @@
 
-function video_1(frame_rate, minutes)
+function video_1(frame_rate, minutes, fn)
 
-v = VideoWriter('video_1.avi');
+v = VideoWriter(fn);
 v.FrameRate = frame_rate;
 
 open(v);
