@@ -1,4 +1,4 @@
-function [X,map] = image_to_raw_1(fn_in, fn_out);
+function [X] = image_to_raw_1(fn_in, fn_out);
 
 img_in = imread(fn_in);
 
