@@ -1,4 +1,6 @@
-function gen_img_2(height, width, fn_out);
+% 生产渐变彩条
+
+function X = gen_img_2(height, width);
 
 img_r=[];
 img_g=[];
@@ -24,4 +26,5 @@ for i = 1:height
     end
 end
 
-imwrite(img_2, fn_out);
+X = img_2;
+
