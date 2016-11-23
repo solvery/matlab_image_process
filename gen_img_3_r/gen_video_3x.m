@@ -8,7 +8,7 @@ open(v);
 
 img_1 = rand(1080, 1920, 3);
 
-for pos = 0:step:1080
+for pos = 1:step:1080
     img_2 = gen_img_3x(img_1, pos);
 	writeVideo(v, img_2);
 end

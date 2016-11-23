@@ -8,7 +8,7 @@ open(v);
 
 img_1 = gen_img_2(1080, 1920);
 
-for pos = 0:step:1920
+for pos = 1:step:1920
     img_2 = gen_img_3y(img_1, pos);
 	writeVideo(v, img_2);
 end
