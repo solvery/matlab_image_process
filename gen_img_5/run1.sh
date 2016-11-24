@@ -1,3 +1,3 @@
 alias mrun='matlab -nodisplay -nodesktop -nojvm -nosplash -r'
 
-mrun "gen_video_1; exit"  > /dev/null &
+mrun "gen_video_2; exit"  > /dev/null &
